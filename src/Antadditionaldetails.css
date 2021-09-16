@@ -1,0 +1,27 @@
+.centerAdditional {
+    
+    width: 500px;
+  height: 500px;
+  position: absolute;
+  left: 35%;
+  top: 20%;
+  
+  
+  /* margin-top: -100px;
+  margin-left: -100px; */
+   
+  }
+
+  /* CSS style */
+/* .inputx{
+    padding-top: 0 !important;
+    border-top: solid #f0f0f0 1.5rem !important;
+} */
+.labelx {
+   position: absolute;
+   right: 100px;
+}
+.Static {
+/* position: static; */
+ position: absolute; 
+}
