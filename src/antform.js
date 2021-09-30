@@ -52,7 +52,7 @@ export default function Antform(){
     >
       <Form.Item
         label="Username"
-        name="username"
+       
         rules={[
           {
             required: true,
@@ -65,7 +65,7 @@ export default function Antform(){
 
       <Form.Item
         label="Email"
-        name="Email"
+       
         rules={[
           {
             required: true,
@@ -78,7 +78,7 @@ export default function Antform(){
       </Form.Item>
       <Form.Item
         label="Birthday"
-        name="Birthday"
+       
         rules={[
           {
             required: true,
@@ -97,7 +97,7 @@ export default function Antform(){
 
       <Form.Item
         label="Password"
-        name="password"
+        
         rules={[
           {
             required: true,
@@ -109,7 +109,7 @@ export default function Antform(){
       </Form.Item>
 
       <Form.Item
-        name="remember"
+       
         valuePropName="checked"
         wrapperCol={{
           offset: 8,
